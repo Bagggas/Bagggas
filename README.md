@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Bagas,
 
-I'm an university student from **Madiun,Indonesia** that really interested on programming lately.
+I'm an university student from **Madiun,Indonesia** that really interested on web development. I'm currently learning Laravel framework. Laravel is a web application framework with expressive, elegant syntax.
 
 ## My Playground ✨
 
-- Laravel 
+- Laravel Framework
 - PHP
 - HTML
 - CSS
